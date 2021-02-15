@@ -6,10 +6,10 @@ title: Exploring Final Project Ideas!
 
 # Exploring Final Project Ideas!
 ## Finding a source
-Last week, when we were asked to explore the Princeton University
+Last week, when our class explored the Princeton University
 Library digital archives,
 I was excited to see what Firestone's special collections had to offer. I
-decided to look at the 
+decided to look at the
 [Western Americana Collection](/"https://dpul.princeton.edu/pudl0017"),
 since I knew I wanted a source that was written in English. If you scroll the
 collection, you'll undoubtedly notice the many photographs and newspaper
@@ -42,14 +42,14 @@ Looking through the journal for the first time, I had a lot of questions:
   - What was his job? Where was he from? Was this first trip West?
 * Where did he travel, who did he travel with, and why did they go there?
 * Why did he want to learn so much about the Indigenous culture and language?
-  - _It is worth noting, that even from the first few pages that I read, that
+    * It is worth noting, that even from the first few pages that I read, that
   Thomas Adams held racist views about the Indigenous peoples who he came in
-  contact with._
+  contact with.
 * What happened to Thomas Adams and the people he was with after he finished the
 journal?
   * little bit of a spoiler for this too...because he wrote a
       [second journal](/"https://dpul.princeton.edu/pudl0017/catalog/vh53x083j").
-      But still- what about after that?
+      But still– what about after that?
 
 I am fully aware that no digital tool I make could totally answer _all_ of these
 questions- that's more of a senior-thesis-level project. But I think that I will
@@ -67,15 +67,15 @@ lived. My dream would be to find maps to correspond with the places he describes
 he references. At this point, I think the best way to create an effective digital
 tool would be to read the journal in its entirety, and then identify a few key
 entries that could be used to identify and discuss broader themes. In order to
-provide proper background for the source itself, I still want to try to answer
+provide proper background for the source, I still want to try to answer
 many of the fundamental questions I have about the author himself, since his
 biography is likely relevant to his motivation for making the journey West and
 keeping a journal in the first place. However, this is not my final decision as
 far as the medium/tool is concerned, and as I read the journal, I may discover
 a more natural path to take in the presentation of the source. Whatever I do, I
 want to make sure to use many images, especially of the journal pages themselves,
-since I think that a visual aspect important part of any digital tool (although
-I am fully aware that this may just be my own personal preference).
+since I think that a visual aspect is an important part of any digital tool
+(although I am fully aware that this may just be my own personal preference).
 
 
 ## What challenges do I anticipate?
@@ -91,7 +91,7 @@ underrepresentation or a misrepresentation of the culture in the final project.
 It will be important for me to do my due diligence in seeking out accurate
 information about any cultures he writes about so that this is not the case.
 
-## Conclusion:sparkles:
+## Conclusion
 
 I'm very excited to begin working with this source, and I can't wait to find out
 more and write about it. Until next post! :star:
