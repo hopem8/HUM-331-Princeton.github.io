@@ -85,3 +85,5 @@ Warre, Henry James. Drawing of Fort Vancouver. Accessed March 7, 2021. https://w
 [11]:https://www.wyohistory.org/encyclopedia/utah-war-wyoming
 [12]:https://www.nps.gov/biho/index.htm
 [13]:https://uploads.knightlab.com/storymapjs/cc419bf9196033c361e580670bcbcb51/outwest/index.html
+
+This work was completed in compliance with course and University regulations. /s/ HP
