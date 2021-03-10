@@ -3,15 +3,14 @@ layout: post
 author: Hope Perry
 title: The US Military on (and off) the Oregon Trail
 ---
-## The US Military on (and off) the Oregon Trail
 
-I was excited to begin this digital tools assignment because of the StoryMaps format, and I was happy to start delving into the 19th century American West. I decided that for this project I wanted to explore some of the broader pieces of American Manifest Destiny. Since I knew that I wanted my topic to be connected to the journal that I plan to use in my final project, I began by scanning and reading the 1853 [journal of Thomas Adams][1] from the beginning, jotting down locations he mentioned as I read (if you want to learn more about this source, you can read my previous post [here]( / "https://hum-331-princeton.github.io/Go-West-Young-Man/")). The best part of this stage was frantically searching the names of rivers and lakes, since those were the most frequently referenced landmarks. It got a little tricky for the pages when he was in Minnesota, though– they don't call it the "Land of 10,000 Lakes" for no reason!
+I was excited to begin this digital tools assignment because of the StoryMaps format, and I was happy to start delving into the 19th century American West. I decided that for this project I wanted to explore some of the broader pieces of American Manifest Destiny. Since I knew that I wanted my topic to be connected to the journal that I plan to use in my final project, I began by scanning and reading the 1853 [journal of Thomas Adams][1] from the beginning, jotting down locations he mentioned as I read (if you want to learn more about this source, you can read my previous post [here](https://hum-331-princeton.github.io/Go-West-Young-Man/)). The best part of this stage was frantically searching the names of rivers and lakes, since those were the most frequently referenced landmarks. It got a little tricky for the pages when he was in Minnesota, though– they don't call it the "Land of 10,000 Lakes" for no reason!
 
 As I read through the journal, I began to notice that there were several military titles that kept popping up as I read. It started to become clear to me that Thomas Adams was probably traveling with the US Army; for what purpose, I'm not yet sure. However, this gave me a great starting point for this StoryMaps assignment: I could explore the presence of the US Military & forts along the Oregon Trail, one of the most iconic pieces of 19th century American history, with a video game based on it to boot!
 
 In order to find information about various forts and military installations along the Oregon Trail, I did a few searches and came across this excellent PDF from [Scotts Bluff National Monument in Nebraska][2]. After cross-referencing the list with some maps from [National Geographic][3] and the [Letters from Forgotten Ancestors Project][4], I made the selections of the forts that appear on the StoryMap, which is embedded below.
 
-`<iframe src="https://uploads.knightlab.com/storymapjs/cc419bf9196033c361e580670bcbcb51/outwest/index.html" frameborder="0" width="100%" height="800"></iframe>`
+<iframe src="https://uploads.knightlab.com/storymapjs/cc419bf9196033c361e580670bcbcb51/outwest/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 Most of the forts listed on my StoryMap are not actually locations that Thomas Adams visited (at least in the parts of the journal that I read for this assignment). However, I thought it was important to examine the broader historical narrative rather than only sticking to the places he visited– otherwise we'd be staying in Minnesota for quite a long time! Instead, I decided to begin with [Fort Leavenworth in Kansas][5], which was a significant crossroads because it was where the Oregon Trail and the Santa Fe Trail diverged. It's also incredibly close to Independence, Missouri, a town famous for its prevalence as the last big town on the journey westward.
 
@@ -30,17 +29,17 @@ I hope you learned something, and I look forward to sharing more from my researc
 
 ### Works Cited
 
-Bagley, Will. “Fort Bridger | WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/fort-bridger. Image from here, via the Wyoming State Museum.
+Bagley, Will. “Fort Bridger - WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/fort-bridger. Image from here, via the Wyoming State Museum.
 
-CRITFC. “Nez Perce Tribe | Nez Perce Indian Reservation.” Accessed March 7, 2021. https://www.critfc.org/member_tribes_overview/nez-perce-tribe/.
+CRITFC. “Nez Perce Tribe - Nez Perce Indian Reservation.” Accessed March 7, 2021. https://www.critfc.org/member_tribes_overview/nez-perce-tribe/.
 
-Drew, Marilyn. “A Brief History of the Bozeman Trail | WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/brief-history-bozeman-trail.
+Drew, Marilyn. “A Brief History of the Bozeman Trail - WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/brief-history-bozeman-trail.
 
-Encyclopedia Britannica. “American Fur Company | American Company.” Accessed March 7, 2021. https://www.britannica.com/topic/American-Fur-Company.
+Encyclopedia Britannica. “American Fur Company - American Company.” Accessed March 7, 2021. https://www.britannica.com/topic/American-Fur-Company.
 
 Encyclopedia Britannica. “Oregon Trail - The Journey.” Accessed March 7, 2021. https://www.britannica.com/topic/Oregon-Trail.
 
-“Oregon Trail | Definition, History, Map, & Facts.” Accessed March 7, 2021. https://www.britannica.com/topic/Oregon-Trail. (Title page image of map)
+“Oregon Trail - Definition, History, Map, & Facts.” Accessed March 7, 2021. https://www.britannica.com/topic/Oregon-Trail. (Title page image of map)
 
 “The Flight of 1877 - Nez Perce National Historical Park (U.S. National Park Service).” Accessed March 7, 2021. https://www.nps.gov/nepe/learn/historyculture/1877.htm.
 
@@ -48,13 +47,13 @@ Encyclopedia Britannica. “Oregon Trail - The Journey.” Accessed March 7, 202
 
 "Fort Hall." Accessed March 7, 2021. https://digitalatlas.cose.isu.edu/geog/forts/text/forthall.htm. Image of Fort Hall from this site via the Idaho State Historical Society, so I am noting that here.
 
-“Fort Laramie | WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/fort-laramie. Image via this site, which sites it as from "Tales and Trails."
+“Fort Laramie - WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/fort-laramie. Image via this site, which sites it as from "Tales and Trails."
 
 “Fort Leavenworth - Kansapedia - Kansas Historical Society.” Accessed March 7, 2021. https://www.kshs.org/kansapedia/fort-leavenworth/17810. Image here, from the Kansas State Historical Society.
 
-“Fort Owen State Park | Montana FWP.” Accessed March 7, 2021. https://fwp.mt.gov/fort-owen. Image directly from this site.
+“Fort Owen State Park - Montana FWP.” Accessed March 7, 2021. https://fwp.mt.gov/fort-owen. Image directly from this site.
 
-Hein, Rebecca. “The Utah War in Wyoming | WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/utah-war-wyoming.
+Hein, Rebecca. “The Utah War in Wyoming - WyoHistory.Org.” Accessed March 7, 2021. https://www.wyohistory.org/encyclopedia/utah-war-wyoming.
 
 “Military & Supply Forts on the Oregon Trail.” Scotts Bluff National Monument, National Park Service, n.d. https://www.nps.gov/scbl/planyourvisit/upload/Forts-on-the-Oregon-Trail.pdf.
 
